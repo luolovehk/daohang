@@ -1,20 +1,20 @@
 # title of website
-title: %NAME%
+title: daohang
 
 # description of website
-description: %NAME%'s navigation site
+description: daohang's navigation site
 
 # your website url
-url: https://%ACTOR%.github.io/%NAME%/
+url: https://luolovehk.github.io/daohang/
 
 # logo image url
 logo: "https://cdn.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/favicon.png"
 
 # github profile url
-github: "https://github.com/%ACTOR%"
+github: "https://github.com/luolovehk"
 
 # footer message
-footer: © 2021-2021 @%ACTOR%
+footer: © 2021-2021 @luolovehk
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
