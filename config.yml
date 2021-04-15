@@ -37,21 +37,10 @@ content:
     - name: 图标素材
       sites:
         - name: iconfont
-          description: 阿里巴巴矢量图标库
+          description: 阿里巴巴矢000000量图标库
           url: https://www.iconfont.cn/
           
         - name: iconfinder
           description: 2,100,000+ free and premium vector icons.
           url: https://www.iconfinder.com/
           
-        - name: iconfinder
-          description: 2,100,000+ free and premium vector icons.
-          url: https://www.iconfinder.com/
-          
-        - name: iconfinder
-          description: 2,100,000+ free and premium vector icons.
-          url: https://www.iconfinder.com/
-          
-         - name: iconfinder
-          description: 2,100,000+ free and premium vector icons.
-          url: https://www.iconfinder.com/
